@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm KEVIN DANIEL M.</h1>
-<h3 align="center">👋 👋 ¡Hola a todos! Soy un apasionado Desarrollador de Software con una fuerte inclinación hacia el desarrollo Backend. Disfruto inmensamente resolver problemas complejos y aportar soluciones innovadoras que mejoran la eficiencia y la experiencia del usuario.
 
 <h3 align="center">👋 Backend Developer with over 4 years of experience in designing and building efficient, scalable backend systems. Proficient in NodeJS, JavaScript, PostgreSQL, SQL databases, and OAuth2. Currently, I’m expanding my expertise in Docker and AWS cloud services to enhance system scalability and deployment.
 
