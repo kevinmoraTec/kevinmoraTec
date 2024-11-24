@@ -1,24 +1,15 @@
 <h1 align="center">Hi 👋, I'm KEVIN DANIEL M.</h1>
 <h3 align="center">👋 👋 ¡Hola a todos! Soy un apasionado Desarrollador de Software con una fuerte inclinación hacia el desarrollo Backend. Disfruto inmensamente resolver problemas complejos y aportar soluciones innovadoras que mejoran la eficiencia y la experiencia del usuario.
 
-💼 Tengo experiencia en el desarrollo de software para notarías y he creado proyectos de facturación, lo que me ha permitido profundizar en aspectos tanto del Frontend como de las Bases de Datos. Además, he diseñado y desarrollado aplicaciones móviles en Java que han demostrado ser eficaces y fiables. Sin embargo, mi verdadera fortaleza y pasión reside en el Backend, donde encuentro la mayor satisfacción en conectar los diferentes componentes de una aplicación y ver cómo todo cobra vida.
+<h3 align="center">👋 Backend Developer with over 4 years of experience in designing and building efficient, scalable backend systems. Proficient in NodeJS, JavaScript, PostgreSQL, SQL databases, and OAuth2. Currently, I’m expanding my expertise in Docker and AWS cloud services to enhance system scalability and deployment.
 
-❤️ Estoy enamorado del aprendizaje constante y siempre busco oportunidades para ampliar mis conocimientos. Actualmente, estoy profundizando en Inteligencia Artificial (IA), explorando cómo puede usarse para mejorar aún más las soluciones de software que construyo.
+I have contributed to the development of web applications that automate business processes, improve operational efficiency, and handle high volumes of data. Notably, I have worked on automating processes for notaries and lawyers, streamlining document management and legal workflows. This has involved creating secure, high-performance solutions to manage legal documentation and automate repetitive tasks, resulting in increased productivity and operational efficiency in notary offices.
 
-🌱 Creo firmemente en el autodesarrollo y la educación continua, por lo que dedico tiempo a mejorar mis habilidades en Platzi, donde profundizo mis conocimientos técnicos y aprendo sobre las últimas tendencias en tecnología.
+My experience also includes optimizing backend performance, implementing secure APIs, and integrating external services such as the OpenAI API to deliver intelligent and dynamic functionalities.
 
-🔭 En mi tiempo libre, me gusta contribuir a proyectos de código abierto y colaborar con otros desarrolladores para hacer un impacto positivo en la comunidad.
+In addition to my technical expertise, I’m passionate about improving my English skills. I actively study English to enhance my communication abilities, which allows me to work better with international teams and stay updated with global trends in software development.
 
-📫 Si quieres hablar sobre desarrollo de software, IA, o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!</h3>
-<br>
-
-<h3 align="center">👋 Hello everyone! I'm a passionate Software Developer, specializing in Backend development, with experience in notary software and billing project development. I've also designed and built reliable mobile applications using Java. I thrive when connecting the different components of an application and bringing them to life.
-
-💼 My strong passion for continuous learning has led me to dive into Artificial Intelligence (AI), exploring how it can enhance the software solutions I build. I'm committed to self-improvement and ongoing education, and I regularly deepen my technical skills and stay updated with the latest tech trends through Platzi.
-
-❤️ In my spare time, I enjoy contributing to open-source projects and collaborating with other developers to make a positive impact on the community.
-
-📫 If you want to talk about software development, AI, or just want to say hello, don't hesitate to get in touch!</h3>
+I’m continuously seeking new opportunities where I can further develop my skills, collaborate with innovative teams, and work on challenging projects. Currently, I'm focusing on mastering Docker for containerization and AWS for cloud infrastructure.</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinmoratec&label=Profile%20views&color=0e75b6&style=flat" alt="kevinmoratec" /> </p>
