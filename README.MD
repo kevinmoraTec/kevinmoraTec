@@ -9,7 +9,7 @@ Recently, I architected and launched [LingoLoop](https://github.com/kevinmoraTec
 ---
 
 ### 🚀 Featured Proof of Work: LingoLoop
-I built this AI-powered personal branding engine from zero to MVP. It serves as a comprehensive technical demonstration of my full-cycle product architecture. *(Note: [Insert link to a Loom video or GIF demo here] to see the UI and generation in action).*
+I built this AI-powered personal branding engine from zero to MVP. It serves as a comprehensive technical demonstration of my full-cycle product architecture. 
 
 * **Backend Architecture:** Highly optimized Node.js & TypeScript REST APIs relying on strict PostgreSQL database schemas.
 * **Applied AI Engineering:** Advanced LLM orchestration integrating the Google Gemini & OpenAI APIs, utilizing dynamic prompt engineering for high-fidelity generative outputs.
