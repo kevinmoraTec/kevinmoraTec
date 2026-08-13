@@ -1,6 +1,6 @@
 # Hi, I'm Kevin Mora 👋 
 
-### Senior Backend & AI Engineer | Architecting Scalable SaaS & LLM Solutions
+### Backend & AI Engineer | Architecting Scalable SaaS & LLM Solutions
 
 I am a Software Engineer with **4+ years of experience** specializing in distributed systems, clean architecture, and applied artificial intelligence. Operating from Ecuador (**EST/CST alignment**), I partner seamlessly with U.S. and global engineering teams in 100% remote environments to solve complex commercial bottlenecks.
 
